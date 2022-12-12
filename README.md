@@ -1,22 +1,22 @@
 # Project : SASS Project
 ​
-https://voltran-project.vercel.app/
+https://sass-projectt.netlify.app/
 
 ## Description
 ​
-Created a simple comic book serial site using HTML and CSS
+Created a personel web-site using SASS.
 ​
-## Project image
+## Project GIF
 ​
-![proje image](/Ekran%20Resmi%202022-09-27%2015.11.28.png)
+![proje image](/images/MTVideo.gif)
 
 ## Technologies used
 ​
 - HTML
 ​
-- CSS
+- SASS
 
 
 ## Project clone link
 ​
-https://github.com/HilalVildan/VOLTRAN.git
+https://github.com/HilalVildan/SASS-project.git
